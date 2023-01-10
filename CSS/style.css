@@ -1,0 +1,44 @@
+body{
+    text-align:center;
+}
+
+.ortala {
+    margin: auto;
+    text-align:center;   
+}
+.end {
+    font-size: small;
+    padding: 16px
+}
+table{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.kutu1{
+    
+    background-color: #EEEEEE;
+    width: 10%;
+    
+}
+.bgreen {
+    width: 9%;
+    background: #7EE5DA;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bgreen1 {
+    width: 5%;
+    background: #70CCC2;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: small;
+}
+.bgreen2 {
+    width: 7%;
+    background: #62B3AA;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: small;
+}
